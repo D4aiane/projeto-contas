@@ -1,0 +1,18 @@
+C:\Users\dayan\source\repos\Cadastro login\Cadastro login\bin\Debug\contas.mdf
+C:\Users\dayan\source\repos\Cadastro login\Cadastro login\bin\Debug\contas_log.ldf
+C:\Users\dayan\source\repos\Cadastro login\Cadastro login\bin\Debug\Cadastro login.exe.config
+C:\Users\dayan\source\repos\Cadastro login\Cadastro login\bin\Debug\Cadastro login.exe
+C:\Users\dayan\source\repos\Cadastro login\Cadastro login\bin\Debug\Cadastro login.pdb
+C:\Users\dayan\source\repos\Cadastro login\Cadastro login\obj\Debug\Cadastro_login.frmLogin.resources
+C:\Users\dayan\source\repos\Cadastro login\Cadastro login\obj\Debug\Cadastro_login.frmPrincipal.resources
+C:\Users\dayan\source\repos\Cadastro login\Cadastro login\obj\Debug\Cadastro_login.frmUsuario.resources
+C:\Users\dayan\source\repos\Cadastro login\Cadastro login\obj\Debug\Cadastro_login.Properties.Resources.resources
+C:\Users\dayan\source\repos\Cadastro login\Cadastro login\obj\Debug\Cadastro login.csproj.GenerateResource.cache
+C:\Users\dayan\source\repos\Cadastro login\Cadastro login\obj\Debug\Cadastro login.csproj.CoreCompileInputs.cache
+C:\Users\dayan\source\repos\Cadastro login\Cadastro login\obj\Debug\Cadastro login.exe
+C:\Users\dayan\source\repos\Cadastro login\Cadastro login\obj\Debug\Cadastro login.pdb
+C:\Users\dayan\source\repos\Cadastro login\Cadastro login\obj\Debug\Cadastro login.csprojAssemblyReference.cache
+C:\Users\dayan\source\repos\Cadastro login\Cadastro login\obj\Debug\Cadastro_login.frmCliente.resources
+C:\Users\dayan\source\repos\Cadastro login\Cadastro login\obj\Debug\Cadastro_login.frmFornecedor.resources
+C:\Users\dayan\source\repos\Cadastro login\Cadastro login\obj\Debug\Cadastro_login.frmContasPagar.resources
+C:\Users\dayan\source\repos\Cadastro login\Cadastro login\obj\Debug\Cadastro_login.frmContasReceber.resources
